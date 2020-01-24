@@ -2,16 +2,19 @@
 
 
 
-### 1.India gave the world the numeral, Zero
-- 
+### 1. Origin of Zero.
+- Invented by Aryabhatta, Brahmagupta also with the help of other mathematicians
+- Later it is used in China and then the rest of the world
 
 ![zero](https://s3.scoopwhoop.com/anj/edx/162052365.jpg)
+(image by https://s3.scoopwhoop.com)
 
 
 ## 2.The game of C hess originated in India
 -  6th century AD
 - Also known as chaturaṅga.
-![Chess](https://s3.scoopwhoop.com/anj/edx/329412441.jpg);
+![Chess](https://s3.scoopwhoop.com/anj/edx/329412441.jpg)
+(image by https://s3.scoopwhoop.com)
 
 
 
@@ -36,6 +39,7 @@
 
 ## 6.Yoga
 - Originated 5000 years ago
+- Some Researchers still believe it's 10,000 years old
 
  ### Advantages
  1. helps in physical, mental and disciplines 
