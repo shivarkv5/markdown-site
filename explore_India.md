@@ -2,6 +2,7 @@
 
 
 ## 1. Origin of Zero.
+- Also Called as Shunya(which means Zero in Sanskrit Language)
 - Invented by Aryabhatta, Brahmagupta also with the help of other mathematicians
 - Later it is used in China and then the rest of the world
 
