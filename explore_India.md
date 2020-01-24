@@ -16,8 +16,12 @@
 
 
 ## 4.Ayurveda originated from India
+- Ayu means Life, Veda means Science 
+- It's ancient medicine system.
+- Originated 5000 years ago.
 
 ![Ayurveda](http://careerwiki.in/wp-content/uploads/2016/03/Ayurveda-Doctor.jpg)
+(image by http://careerwiki.in)
 
 
 
