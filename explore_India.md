@@ -18,17 +18,22 @@
 
 
 
-## 4.Ayurveda
+## 3.Ayurveda
 - Ayu means Life, Veda means Science 
 - It's ancient medicine system.
 - Originated 5000 years ago.
+### Advantages
+1. Chemical free medicine
+2. Everything Organic and eco-friendly
+3. Relaxation
+4. Healtiness 
 
 ![Ayurveda](http://careerwiki.in/wp-content/uploads/2016/03/Ayurveda-Doctor.jpg)
 (image by http://careerwiki.in)
 
 
 
-## 5.First Cataract surgery was done by ancient Indians
+## 4.First Cataract surgery was done by ancient Indians
 - Sushruta, was an ancient Indian physician 
 - By using curved needles he loosen the cataract and let it out of the vision.
 - Later soaked with warm butter and bandaged the eye.
@@ -37,8 +42,10 @@
 (Image by https://www.dailyo.in/)
 
 
-## 6.Yoga
+## 5.Yoga
 - Originated 5000 years ago
+- Indus-Sarasvati Civilization
+- Written in Rig-vedas
 - Some Researchers still believe it's 10,000 years old
 
  ### Advantages
