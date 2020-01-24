@@ -1,8 +1,7 @@
-# Unknown things about India
+# Interesting things about India
 
 
-
-### 1. Origin of Zero.
+## 1. Origin of Zero.
 - Invented by Aryabhatta, Brahmagupta also with the help of other mathematicians
 - Later it is used in China and then the rest of the world
 
