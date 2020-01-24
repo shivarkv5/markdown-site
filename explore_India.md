@@ -10,7 +10,7 @@
 (image by https://s3.scoopwhoop.com)
 
 
-## 2.The game of C hess originated in India
+## 2.Chess
 -  6th century AD
 - Also known as chaturaṅga.
 ![Chess](https://s3.scoopwhoop.com/anj/edx/329412441.jpg)
@@ -18,7 +18,7 @@
 
 
 
-## 4.Ayurveda originated from India
+## 4.Ayurveda
 - Ayu means Life, Veda means Science 
 - It's ancient medicine system.
 - Originated 5000 years ago.
@@ -28,7 +28,7 @@
 
 
 
-## 5.Cataract surgery was first found in ancient India
+## 5.First Cataract surgery was done by ancient Indians
 - Sushruta, was an ancient Indian physician 
 - By using curved needles he loosen the cataract and let it out of the vision.
 - Later soaked with warm butter and bandaged the eye.
